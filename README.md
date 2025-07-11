@@ -62,7 +62,7 @@ A lightweight workflow to automate code review tracking using SQL and Google App
 
 The diagram below illustrates the full automation flow for the Code Review Tracker, from SQL extraction to reminder emails and review accountability tracking.
 
-![Data_Flow_Diagram](./Data_Flow_Diagram_Code_Review_Tracker.png)
+![Data_Flow_Diagram](./visuals/Data_Flow_Diagram_Code_Review_Tracker.png)
 ---
 ## 📁 Repo Structure
 

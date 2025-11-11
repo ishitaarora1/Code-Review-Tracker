@@ -8,7 +8,7 @@
 
 ### 🚀 Overview  
 **Code Review Monitor** automates and streamlines the review lifecycle using **SQL** and **Google Apps Script**.  
-It connects to a central database, fetches pending code reviews, calculates ideal vs. actual delays based on code size and project priority, and automatically sends reminder or escalation emails — all while logging every action in a tracker sheet.
+It connects to a central database, fetches pending code reviews, calculates ideal vs. actual delays based on code size and project priority, and automatically sends reminder or escalation emails all while logging every action in a tracker sheet.
 
 This project demonstrates how lightweight automation can **reduce manual follow-ups, improve accountability, and accelerate engineering feedback loops** , without any complex setup or paid tools.  
 
@@ -26,8 +26,8 @@ This project demonstrates how lightweight automation can **reduce manual follow-
 
 ### 🧩 Tech Stack  
 - **SQL** – for data extraction and delay calculation  
-- **Google Apps Script** – for automation, scheduling, and emailing  
-- **Google Sheets** – for live tracking and reporting  
+- **Google Apps Script**  for automation, scheduling, and emailing  
+- **Google Sheets**  for live tracking and reporting  
 
 ---
 
